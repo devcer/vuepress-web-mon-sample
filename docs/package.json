@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-web-mon-sample",
+  "version": "0.0.1",
+  "description": "Vuepress sample site for web monetization",
+  "main": "index.js",
+  "authors": {
+    "name": "Santosh Viswanatham",
+    "email": "viswanathamsantosh@gmail.com"
+  },
+  "repository": "/vuepressWebMonSample",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
